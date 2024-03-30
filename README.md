@@ -143,3 +143,7 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 ```https://mumbai.polygonscan.com/
   OPEN: Polygon Mumbai
 ```
+### Author
+
+- [@aimanibnubayd.com](https://portfolio-website1-ten.vercel.app/)
+- [@stackoverflow](https://stackoverflow.com/users/23237163/aiman-ibn-ubayd)
